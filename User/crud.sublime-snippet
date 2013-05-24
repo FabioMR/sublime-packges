@@ -1,7 +1,12 @@
 <snippet>
-  <content><![CDATA[controller ${1:e do
-  $0
-end]]></content>
+  <content><![CDATA[controller :${1:controller_name} do
+  get    "/$1",             action: :index,   as: :$1
+  get    "/$1/new",         action: :new,     as: :new_${2:controller_name_singularized}
+  post   "/$1/new",         action: :new,     as: false
+  get    "/$1/:id/edit",    action: :edit,    as: :edit_$2
+  put    "/$1/:id/edit",    action: :update,  as: false
+  delete "/$1/:id/destroy", action: :destroy, as: :destroy_$2
+end$0]]></content>
     <tabTrigger>crud</tabTrigger>
     <scope>source.ruby</scope>
     <description>create crud routes</description>
