@@ -1,9 +1,9 @@
 {
-	"color_scheme": "Packages/Color Scheme - User/Espresso Soda.tmTheme",
+  "theme": "Soda Light.sublime-theme",
+  "color_scheme": "Packages/Color Scheme - User/Espresso Soda.tmTheme",
 	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
-	],
-	"theme": "Soda Light.sublime-theme"
+	]
 }
