@@ -3,19 +3,123 @@
 	{
 		"selected_items":
 		[
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"render",
+				"render_passo_2"
+			],
+			[
+				"con",
+				"context	context"
+			],
+			[
+				"co",
+				"context	context"
+			],
+			[
+				"local",
+				"local_fisico"
+			],
+			[
+				"ha",
+				"have	expect(subject) have"
+			],
+			[
+				"data",
+				"data_do_lancamento"
+			],
+			[
+				"va",
+				"Validations"
+			],
+			[
+				"trans",
+				"transferencia_fisica_de_movel"
+			],
+			[
+				"rende",
+				"render_passo_2"
+			],
+			[
+				"organogram",
+				"organogramas"
+			],
+			[
+				"move",
+				"moveis_selecionados"
+			],
+			[
+				"tipo_de",
+				"tipo_de_movel_pai"
+			],
+			[
+				"palavra",
+				"palavra_chave"
+			],
+			[
+				"tipo",
+				"tipo_de_movel"
+			],
+			[
+				"pala",
+				"palavra_chave"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/fabio/sistemas/patrimonio/config/deploy.rb",
+			"settings":
+			{
+				"buffer_size": 2038,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 217.0,
 		"selected_items":
 		[
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 579.0
 	},
 	"console":
 	{
@@ -32,25 +136,234 @@
 	},
 	"file_history":
 	[
+		"/home/fabio/sistemas/patrimonio/Capfile",
+		"/home/fabio/sistemas/patrimonio/app/assets/javascripts/components/loading-page.js",
+		"/home/fabio/sistemas/patrimonio/db/schema.rb",
+		"/home/fabio/sistemas/patrimonio/app/controllers/usuarios_controller.rb",
+		"/home/fabio/sistemas/patrimonio/app/assets/stylesheets/components/loading-page.css.scss",
+		"/home/fabio/sistemas/patrimonio/app/views/layouts/application.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/assets/stylesheets/application.css.scss",
+		"/home/fabio/sistemas/patrimonio/app/assets/javascripts/application.js",
+		"/home/fabio/sistemas/patrimonio/spec/formatter.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/19_transferencias_fisica_de_moveis/1_transferir_movel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/20_transferencias_fisica_de_imoveis/1_transferir_imovel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/20_transferencias_fisica_de_imoveis/2_transferir_imoveis_em_lote_spec.rb",
+		"/home/fabio/sistemas/patrimonio/app/views/moveis/show/_movel.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/shared/_group_box.html.erb",
+		"/home/fabio/sistemas/patrimonio/spec/features/13_imoveis/4.1_alterar_dados_principais_do_imovel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/13_imoveis/6.1_vincular_local_fisico_ao_imovel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/17_moveis/2_visualizar_movel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/19_transferencias_fisica_de_moveis/2_transferir_moveis_em_lote_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/20_transferencias_fisica_de_imoveis/1_transferir_imoveis_em_lote_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/20_transferencias_fisica_de_imoveis/1_transferir_imoveis_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/19_transferencias_fisica_de_moveis/1_transferir_moveis_spec.rb",
+		"/home/fabio/sistemas/patrimonio/app/controllers/transferencias_fisica_de_imoveis_controller.rb",
+		"/home/fabio/sistemas/patrimonio/app/controllers/transferencias_fisica_de_moveis_controller.rb",
+		"/home/fabio/sistemas/patrimonio/app/services/transferencia_fisica_de_imovel.rb",
+		"/home/fabio/sistemas/patrimonio/app/views/imoveis/show/_imovel.html.erb",
+		"/home/fabio/sistemas/patrimonio/config/routes.rb",
+		"/home/fabio/sistemas/patrimonio/app/locales/application.yml",
+		"/home/fabio/sistemas/patrimonio/app/views/moveis/show/_categorias.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/helpers/imoveis_helper.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/17_moveis/3_criar_movel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/app/locales/auditorias.yml",
+		"/home/fabio/sistemas/patrimonio/app/services/auditor/movel_auditor.rb",
+		"/home/fabio/sistemas/patrimonio/app/services/auditor/imovel_auditor.rb",
+		"/home/fabio/sistemas/patrimonio/app/services/auditor/base_auditor.rb",
+		"/home/fabio/sistemas/patrimonio/app/controllers/imoveis_controller.rb",
+		"/home/fabio/sistemas/patrimonio/app/services/auditor.rb",
+		"/home/fabio/sistemas/patrimonio/app/controllers/application_controller.rb",
+		"/home/fabio/sistemas/patrimonio/app/services/transferencia_fisica_de_movel.rb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_imoveis/_passo_3.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_imoveis/_passo_2.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_imoveis/_passo_1.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_moveis/_passo_2.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_moveis/_passo_3.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_moveis/_passo_1.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/shared/_form_actions.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/entidades/_form.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/models/auditoria.rb",
+		"/home/fabio/sistemas/patrimonio/app/services/replicador_de_movel.rb",
+		"/home/fabio/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/fabio/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-		"/home/fabio/.config/sublime-text-2/Packages/Color Scheme - User/Espresso Soda.tmTheme"
+		"/home/fabio/sistemas/patrimonio/spec/services/transferencia_fisica_de_movel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/services/transferencia_fisica_de_imovel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/app/locales/imoveis.yml",
+		"/home/fabio/sistemas/patrimonio/spec/services/usuario_auditor_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/spec_helper.rb",
+		"/home/fabio/sistemas/patrimonio/spec/services/pesquisa_de_movel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/services/pesquisa_de_imovel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/models/imovel_spec.rb",
+		"/home/fabio/sistemas/patrimonio/app/services/pesquisa_de_imovel.rb",
+		"/home/fabio/sistemas/patrimonio/app/services/pesquisa_de_movel.rb",
+		"/home/fabio/sistemas/patrimonio/app/models/imovel.rb",
+		"/home/fabio/sistemas/patrimonio/spec/services/filtro_de_auditoria_spec.rb",
+		"/home/fabio/sistemas/patrimonio/app/services/filtro_de_auditoria.rb",
+		"/home/fabio/sistemas/patrimonio/spec/services/selecionador_de_entidade_spec.rb",
+		"/home/fabio/sistemas/patrimonio/app/locales/moveis.yml",
+		"/home/fabio/sistemas/patrimonio/app/locales/transferencias_fisica_de_moveis.yml",
+		"/home/fabio/sistemas/patrimonio/app/models/movimento.rb",
+		"/home/fabio/sistemas/patrimonio/spec/support/helpers/feature_helper.rb",
+		"/home/fabio/sistemas/patrimonio/app/views/imoveis/locais_fisicos/new.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/imoveis/show/_locais_fisicos.html.erb",
+		"/home/fabio/sistemas/patrimonio/spec/features/13_imoveis/3.2_criar_imovel_no_passo_2_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/17_moveis/1_listar_moveis_spec.rb",
+		"/home/fabio/sistemas/patrimonio/spec/support/factories/movimento.rb",
+		"/home/fabio/sistemas/patrimonio/app/views/moveis/show/_movimentos.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/imoveis/show/_movimentos.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/imoveis/show/_item.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_imoveis/create.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_imoveis/_selecionados.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/assets/javascripts/application/transferencias_fisica_de_imoveis.js",
+		"/home/fabio/sistemas/patrimonio/app/locales/transferencias_fisica_de_imoveis.yml",
+		"/home/fabio/sistemas/patrimonio/app/controllers/imoveis/locais_fisicos_controller.rb",
+		"/home/fabio/sistemas/patrimonio/app/assets/javascripts/application/transferencias_fisica_de_moveis.js",
+		"/home/fabio/sistemas/patrimonio/app/assets/stylesheets/application/transferencias_fisica_de_moveis.css.scss",
+		"/home/fabio/sistemas/patrimonio/app/assets/stylesheets/application/transferencias_fisica_de_imoveis.css.scss",
+		"/home/fabio/sistemas/patrimonio/tmp/cache/assets/development/sass/2d53ac45522e56be861383ab61d12c0a4c6eff44/application.css.scssc",
+		"/home/fabio/sistemas/patrimonio/app/views/layouts/_sidebar.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_imoveis/new.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_imoveis",
+		"/home/fabio/sistemas/patrimonio/db/seeds.rb",
+		"/home/fabio/sistemas/patrimonio/config/deploy.rb",
+		"/home/fabio/sistemas/patrimonio/app/models/tipo_de_movimento.rb",
+		"/home/fabio/sistemas/patrimonio/app/locales/movimentos.yml",
+		"/home/fabio/sistemas/patrimonio/app/views/moveis/new/_movimentacao.html.erb",
+		"/home/fabio/sistemas/patrimonio/spec/support/factories/item_do_imovel.rb",
+		"/home/fabio/sistemas/patrimonio/spec/support/factories/movel.rb",
+		"/home/fabio/sistemas/patrimonio/app/models/item_do_imovel.rb",
+		"/home/fabio/sistemas/patrimonio/spec/support/factories/imovel.rb",
+		"/home/fabio/sistemas/patrimonio/app/models/movel.rb",
+		"/home/fabio/sistemas/patrimonio/app/views/imoveis/new/_passo_3.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/imoveis/itens/_form.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/controllers/moveis_controller.rb",
+		"/home/fabio/sistemas/patrimonio/spec/support/factories/tipo_de_movimento.rb",
+		"/home/fabio/sistemas/patrimonio/app/assets/javascripts/components/select2_locale_pt-BR.js",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_fisica_de_moveis/_selecionados.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/locales/transferencias_de_imoveis.yml",
+		"/home/fabio/sistemas/patrimonio/app/assets/javascripts/application/transferencias_de_moveis.js",
+		"/home/fabio/sistemas/patrimonio/app/assets/stylesheets/application/transferencias_de_moveis.css.scss",
+		"/home/fabio/sistemas/patrimonio/app/controllers/transferencias_de_moveis_controller.rb",
+		"/home/fabio/sistemas/patrimonio/app/locales/transferencias_de_moveis.yml",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_de_moveis/_passo_1.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_de_moveis/_passo_2.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_de_moveis/_passo_3.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_de_moveis/_selecionados.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_de_moveis/create.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/views/transferencias_de_moveis/new.html.erb",
+		"/home/fabio/sistemas/patrimonio/app/assets/javascripts/application/moveis.js",
+		"/home/fabio/sistemas/patrimonio/db/migrate/20130710164820_create_movimentos.rb",
+		"/home/fabio/sistemas/patrimonio/spec/support/factories/entidade.rb",
+		"/home/fabio/sistemas/patrimonio/spec/support/factories/pessoa.rb",
+		"/home/fabio/sistemas/patrimonio/spec/features/13_imoveis/1_listar_imoveis_spec.rb",
+		"/home/fabio/sistemas/patrimonio/app/models/organograma.rb",
+		"/home/fabio/sistemas/patrimonio/app/models/local_fisico.rb",
+		"/home/fabio/sistemas/patrimonio/db/migrate/20130710164814_create_moveis.rb",
+		"/home/fabio/sistemas/patrimonio/db/migrate/20130527174251_create_imoveis.rb",
+		"/home/fabio/sistemas/patrimonio/Gemfile",
+		"/home/fabio/sistemas/patrimonio/app/assets/stylesheets/components/search-query.css.scss",
+		"/home/fabio/sistemas/patrimonio/app/assets/javascripts/components/search-query.js",
+		"/home/fabio/sistemas/patrimonio/app/views/shared/_search_query.html.erb"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 95.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"asse",
+			"image_tag",
+			"#content",
+			"end",
+			"imovel_1",
+			"edit_link",
+			"edit_link:",
+			"edit_",
+			"confirm:",
+			"create",
+			"@itens_auditor",
+			"TransferenciaFisicaDeImovel",
+			"imovel",
+			":palavras_chave, ",
+			"Move",
+			"move",
+			"@imoveis",
+			"accepts_nested_attributes_for",
+			"tipo_de_movel_id",
+			"@moveis",
+			"parametros",
+			"moveis",
+			"movel",
+			"móveis",
+			"organograma",
+			"movel",
+			"transferencia_fisica_de_movel",
+			"check",
+			"@movel",
+			"move",
+			"movimentos",
+			"itens",
+			"move",
+			"Move",
+			"move",
+			"Movel",
+			"move",
+			"_movel",
+			"movel",
+			"moveis",
+			"move",
+			"Movel",
+			"Move",
+			"Movel",
+			"movel",
+			"moveis",
+			"move",
+			"Móve",
+			"móve",
+			"move",
+			"moveis",
+			"Movel",
+			"move",
+			"tipos_de_move",
+			"movel",
+			"moveis",
+			"script",
+			"asset",
+			"manifes",
+			"carregar_moveis_selecionados",
+			"hidden_field :tipo_de_movimento_id",
+			"organograma",
+			"remove_transferencia_de_movel_path",
+			"transferencias_de_moveis",
+			"new_transferencia_de_movel",
+			"carregar_moveis_selecionados",
+			"carregar_move",
+			"any",
+			"voltar_para_pesquisa_simples",
+			"nome",
+			"tipo_de_movel",
+			"moveis",
+			"filtro",
+			"@filtros[:local_fisico]",
+			"@filtros[:organograma]",
+			"@filtros[:tipo_de_movel]",
+			"@filtros[:tipo_de_movel_pai]",
+			"@filtros[:palavra_chave]",
+			"@filtros[:descricao]",
+			"@filtros[:codigo]",
+			"organograma",
+			"tipo_de_movel"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -58,6 +371,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"remove_transferencia_fisica_de_movel_path",
+			"transferencias_fisica_de_moveis",
+			"new_transferencia_fisica_de_movel"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -68,8 +384,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/fabio/sistemas/patrimonio/config/deploy.rb",
+					"settings":
+					{
+						"buffer_size": 2038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								57
+							]
+						],
+						"settings":
+						{
+							"buffer_scroll_name": "60ce1cbe",
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -79,7 +425,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -114,6 +460,330 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"deplo",
+				"config/deploy.rb"
+			],
+			[
+				"cap",
+				"Capfile"
+			],
+			[
+				"page",
+				"app/assets/javascripts/components/loading-page.js"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"usua",
+				"app/controllers/usuarios_controller.rb"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"_movel",
+				"app/views/moveis/show/_movel.html.erb"
+			],
+			[
+				"grou",
+				"app/views/shared/_group_box.html.erb"
+			],
+			[
+				"trans",
+				"app/controllers/transferencias_fisica_de_moveis_controller.rb"
+			],
+			[
+				"tr",
+				"app/services/transferencia_fisica_de_imovel.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"transfere",
+				"app/controllers/transferencias_fisica_de_imoveis_controller.rb"
+			],
+			[
+				"appli",
+				"app/locales/application.yml"
+			],
+			[
+				"group",
+				"app/views/shared/_group_box.html.erb"
+			],
+			[
+				"_imove",
+				"app/views/imoveis/show/_imovel.html.erb"
+			],
+			[
+				"audi",
+				"app/locales/auditorias.yml"
+			],
+			[
+				"base",
+				"app/services/auditor/base_auditor.rb"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"imoveis_contro",
+				"app/controllers/imoveis_controller.rb"
+			],
+			[
+				"passo_3",
+				"app/views/transferencias_fisica_de_imoveis/_passo_3.html.erb"
+			],
+			[
+				"passo_2",
+				"app/views/transferencias_fisica_de_imoveis/_passo_2.html.erb"
+			],
+			[
+				"passo_1",
+				"app/views/transferencias_fisica_de_imoveis/_passo_1.html.erb"
+			],
+			[
+				"_form_a",
+				"app/views/shared/_form_actions.html.erb"
+			],
+			[
+				"_for",
+				"app/views/entidades/_form.html.erb"
+			],
+			[
+				"passo_",
+				"app/views/transferencias_fisica_de_moveis/_passo_2.html.erb"
+			],
+			[
+				"passo",
+				"app/views/transferencias_fisica_de_moveis/_passo_1.html.erb"
+			],
+			[
+				"transfe",
+				"app/services/transferencia_fisica_de_movel.rb"
+			],
+			[
+				"transferen",
+				"app/services/transferencia_fisica_de_imovel.rb"
+			],
+			[
+				"imovei",
+				"app/locales/imoveis.yml"
+			],
+			[
+				"pesquisa",
+				"app/services/pesquisa_de_imovel.rb"
+			],
+			[
+				"imovel",
+				"app/models/imovel.rb"
+			],
+			[
+				"pesquisa_de",
+				"app/services/pesquisa_de_movel.rb"
+			],
+			[
+				"filtrodeauditoria",
+				"app/services/filtro_de_auditoria.rb"
+			],
+			[
+				"pesquisade",
+				"app/services/pesquisa_de_movel.rb"
+			],
+			[
+				"imove",
+				"app/locales/imoveis.yml"
+			],
+			[
+				"move",
+				"app/locales/moveis.yml"
+			],
+			[
+				"passo1",
+				"app/views/transferencias_fisica_de_moveis/_passo_1.html.erb"
+			],
+			[
+				"movi",
+				"app/models/movimento.rb"
+			],
+			[
+				"movei",
+				"app/locales/moveis.yml"
+			],
+			[
+				"moveis",
+				"app/locales/moveis.yml"
+			],
+			[
+				"transferencia_fisica_de_movel",
+				"app/locales/transferencias_fisica_de_moveis.yml"
+			],
+			[
+				"fea",
+				"spec/support/helpers/feature_helper.rb"
+			],
+			[
+				"imoveislocais_fisicosnew",
+				"app/views/imoveis/locais_fisicos/new.html.erb"
+			],
+			[
+				"imoveislocaisfisicos",
+				"app/views/imoveis/show/_locais_fisicos.html.erb"
+			],
+			[
+				"pass",
+				"app/views/transferencias_fisica_de_moveis/_passo_1.html.erb"
+			],
+			[
+				"transjs",
+				"app/assets/javascripts/application/transferencias_fisica_de_imoveis.js"
+			],
+			[
+				"application.cs",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"_sder",
+				"app/views/layouts/_sidebar.html.erb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"movime",
+				"app/models/movimento.rb"
+			],
+			[
+				"tipo_de_movi",
+				"app/models/tipo_de_movimento.rb"
+			],
+			[
+				"_moviment",
+				"app/views/moveis/show/_movimentos.html.erb"
+			],
+			[
+				"_mov",
+				"app/views/moveis/new/_movimentacao.html.erb"
+			],
+			[
+				"transferencias_fisica_de_imoveis",
+				"app/locales/transferencias_fisica_de_imoveis.yml"
+			],
+			[
+				"_side",
+				"app/views/layouts/_sidebar.html.erb"
+			],
+			[
+				"movim",
+				"app/models/movimento.rb"
+			],
+			[
+				"movel",
+				"spec/support/factories/movel.rb"
+			],
+			[
+				"item_do",
+				"app/models/item_do_imovel.rb"
+			],
+			[
+				"_mo",
+				"app/views/moveis/new/_movimentacao.html.erb"
+			],
+			[
+				"moveis_co",
+				"app/controllers/moveis_controller.rb"
+			],
+			[
+				"tipodemovimen",
+				"spec/support/factories/tipo_de_movimento.rb"
+			],
+			[
+				"transferencia_de_movel",
+				"app/services/transferencia_fisica_de_movel.rb"
+			],
+			[
+				"passo3",
+				"app/views/transferencias_de_moveis/_passo_3.html.erb"
+			],
+			[
+				"moveis.js",
+				"app/assets/javascripts/application/moveis.js"
+			],
+			[
+				"1_listar_imo",
+				"spec/features/13_imoveis/1_listar_imoveis_spec.rb"
+			],
+			[
+				"loca",
+				"app/models/local_fisico.rb"
+			],
+			[
+				"organog",
+				"app/models/organograma.rb"
+			],
+			[
+				"movie",
+				"app/models/movimento.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"tras",
+				"app/locales/transferencias_de_moveis.yml"
+			],
+			[
+				"sear",
+				"app/assets/javascripts/components/search-query.js"
+			],
+			[
+				"searc",
+				"app/views/shared/_search_query.html.erb"
+			],
+			[
+				"moveisindex",
+				"app/views/moveis/index.html.erb"
+			],
+			[
+				"moveisinde",
+				"app/views/moveis/index.html.erb"
+			],
+			[
+				"_control",
+				"app/controllers/moveis_controller.rb"
+			],
+			[
+				"palavr",
+				"app/models/palavra_chave.rb"
+			],
+			[
+				"gerenci",
+				"app/services/gerenciador_de_responsavel.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"aaplicajs",
+				"app/assets/javascripts/application.js"
+			]
 		],
 		"width": 0.0
 	},
@@ -122,13 +792,17 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/home/fabio/.config/sublime-text-2/Packages/User/site-designa.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 330.0,
 	"status_bar_visible": true
 }

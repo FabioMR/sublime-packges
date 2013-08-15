@@ -158,7 +158,7 @@
     // Controls how the indent guides are drawn, valid options are
     // "draw_normal" and "draw_active". draw_active will draw the indent
     // guides containing the caret in a different color.
-    "indent_guide_options": ["draw_normal"],
+    "indent_guide_options": ["draw_active"],
 
     // Set to true to removing trailing white space on save
     "trim_trailing_white_space_on_save": true,
