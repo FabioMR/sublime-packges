@@ -3,6 +3,54 @@
 	{
 		"selected_items":
 		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"sera",
+				"SERASA_DOCUMENT"
+			],
+			[
+				"anal",
+				"analyzed"
+			],
+			[
+				"comm",
+				"comments_join"
+			],
+			[
+				"comments",
+				"comments_condition"
+			],
+			[
+				"an",
+				"analyzed"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"rej	reject { |e| .. }"
+			],
+			[
+				"content",
+				"content_tag"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			]
 		]
 	},
 	"buffers":
@@ -11,11 +59,27 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 194.0,
 		"selected_items":
 		[
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"delete",
+				"File: Delete"
+			]
 		],
-		"width": 0.0
+		"width": 579.0
 	},
 	"console":
 	{
@@ -32,16 +96,134 @@
 	},
 	"file_history":
 	[
-		"/home/fabio/sistemas/cooperativa/site_rails/config/deploy.rb",
-		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/fresh_passwords_controller.rb",
-		"/home/fabio/sistemas/cooperativa/site_rails/app/models/base1.rb",
-		"/home/fabio/sistemas/cooperativa/site_rails/app/models/integration.rb",
-		"/home/fabio/sistemas/cooperativa/.gitignore",
-		"/home/fabio/sistemas/cooperativa/site_rails/lib/cooper_johnson/csv.rb",
-		"/home/fabio/sistemas/cooperativa/site_rails/config/routes/admin.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/admin/banners/edit.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/public/javascripts/admin/banner.js",
+		"/home/fabio/sistemas/cooperativa/site_rails/lib/tasks/integration_migrate.rake",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/repar_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/parcelado/new.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/public/javascripts/service/simulations.js",
+		"/home/fabio/sistemas/cooperativa/site_rails/public/javascripts/service/repar.js",
+		"/home/fabio/sistemas/cooperativa/site_rails/lib/cooper_johnson/simulation.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/repar/show.html.haml",
+		"/home/fabio/sistemas/cooperativa/Vagrantfile",
+		"/home/fabio/sistemas/cooperativa/site_rails/db/migrate/20131002165808_add_attendent_and_contract_number_to_repars.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/dashboard/_repar.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/dashboard/_above_proposals.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/db/schema.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/db/migrate/20131002165808_add_attendent_and_protocol_and_contract_number_to_repars.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/db/migrate/20131001170654_add_status_to_banners.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/partner/balance_due_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/balance_due_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/number_generator.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/spec/blueprints.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/base10.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/cooper_fix_extra_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/cooper_fix_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/partner/cooperfix_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/config/deploy/staging.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/base9.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/db/migrate/20131002145154_create_number_generators.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/base2.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/base10/associations_and_scopes.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/simulations/_simulation_above_line_1.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/db/migrate/20130917170949_create_satisfaction_survey_answers.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/base10/methods.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/repar/new.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/repar.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/simulations_controller.rb",
 		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/admin/upload_controller.rb",
-		"/home/fabio/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-		"/home/fabio/.config/sublime-text-2/Packages/Color Scheme - User/Espresso Soda.tmTheme"
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/application_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/admin/ads_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/dashboard/index.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/above_proposals_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/repar_contract.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/parcelado_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/above_proposals/_form.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/above_proposal.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/above_proposals/show.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/public/stylesheets/common/service.css",
+		"/home/fabio/sistemas/cooperativa/site_rails/public/stylesheets/dashboard-service.css",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/protocols_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/base1/associations_and_scopes.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/layouts/service.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/public/stylesheets/environment-label.css",
+		"/home/fabio/sistemas/cooperativa/site_rails/public/stylesheets/cj.css",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/dashboard/filter.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/shared/_tools.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/partner/simulations_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/config/deploy/production.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/lib/cooper_johnson/simulation/rrepar.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/lib/cooper_johnson/cooper_johnson.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/lib/cooper_johnson/simulation/repar.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/loan_simulation_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/config/deploy.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/README.rdoc",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/admin/dashboard/index.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/user.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/admin/report_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/vendor/gems/pdfkit-0.5.0/README.md",
+		"/home/fabio/sistemas/cooperativa/site_rails/config/environment.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/vendor/plugins/remarkable_extensions/spec/application/application.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/layouts/admin.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/layouts/application.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/layouts/external.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/layouts/partner.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/partner/satisfaction_surveys/new.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/partner/satisfaction_surveys_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/partner/address_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/crediauto_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/crediauto/_note.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/crediauto/_contract.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/crediauto/show.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/lib/cooper_johnson/csv.rb",
+		"/home/fabio/Área de Trabalho/17.csv",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/integration.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/tmp/todo.txt",
+		"/home/fabio/sistemas/cooperativa/site_rails/config/environments/test.rb",
+		"/home/fabio/Área de Trabalho/PesquisaDeSatisfacao.csv",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/admin/satisfaction_surveys/index.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/admin/satisfaction_surveys_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/satisfaction_survey.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/admin/extract_data_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/base8.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/satisfaction_survey_question.rb",
+		"/home/fabio/Área de Trabalho/Base8.csv",
+		"/home/fabio/sistemas/cooperativa/site_rails/config/routes/admin.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/admin/ads/index.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/restrictions/new.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/restrictions_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/restriction.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/spec/models/restriction_spec.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/dashboard/_analysis.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/base1.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/service/dashboard_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/analysis.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/ads_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/page.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/service/dashboard/_extra_deferment.html.haml",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/admin/settings/_form.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/admin/testimonials/_form.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/db/migrate/20130917170628_create_satisfaction_survey_questions.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/admin/news_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/ad.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/news.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/news_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/news/show.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/.gitignore",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/category.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/models/testimonial.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/vendor/gems/paperclip-2.3.1.1/test/paperclip_test.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/partner/extra_deferments_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/config/routes/partner.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/partner/extra_deferments/edit.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/satisfaction_surveys_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/sessions_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/helpers/application_helper.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/partner/dashboard/index.html.erb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/controllers/partner/dashboard_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/lib/authentication.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/vendor/plugins/nifty-generators/rails_generators/nifty_authentication/templates/tests/rspec/sessions_controller.rb",
+		"/home/fabio/sistemas/cooperativa/site_rails/app/views/home/index.html.erb"
 	],
 	"find":
 	{
@@ -49,7 +231,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 95.0,
 		"where_history":
 		[
 			""
@@ -60,10 +242,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"process",
-			"create",
-			"index",
-			"run_admin_up"
+			"$('div#step2 .setting')",
+			"attendent",
+			"contract",
+			"add",
+			", :string",
+			"generate_next_protocol",
+			"NumberGenerator.next_protocol",
+			"Base9.new_protocol",
+			"protocol",
+			"Base9.new_protocol",
+			"new_protocol",
+			"billet_number",
+			"new_protocol",
+			"protocol",
+			"INITIAL_PROTOCOL",
+			"protocol]",
+			"protocol",
+			"next_financing_contract_number",
+			"yZGB10SPro",
+			"yZGB10SSeq",
+			"YZIGNSBASE10",
+			"INITIAL_PROTOCOL",
+			"new_protocol",
+			"protocol",
+			"next_protocol",
+			"integration",
+			"id",
+			"item",
+			"current_balance_due",
+			"sumWithRepar",
+			"get_pages",
+			"valueWithRepar",
+			"value",
+			"f.",
+			":attendant",
+			"attendant",
+			"validate_attendant",
+			"current_service",
+			"Base10.new_protocol",
+			"protocol",
+			"def self.new_protocol",
+			"def new_protocol",
+			"new_protocol",
+			"next_financing_contract_number",
+			"contract_number",
+			"above_proposal",
+			"@above_proposal",
+			"above_proposal",
+			"'paymant'",
+			"\"paymant\"",
+			".paymant",
+			"div#wrapper div.actions div.content div.paymant div.setting",
+			"above",
+			"aboves",
+			"above_proposa",
+			"above_proposal",
+			"contracts",
+			"contract",
+			"contracts",
+			"contract",
+			"repar",
+			"ooper_johnson/simulation/repar",
+			"RRepar",
+			"raise",
+			"new",
+			"loan_request",
+			"simulation",
+			"debugger",
+			"Rake",
+			"rake",
+			"config.middleware.use",
+			"<%= content_tag :p, \"BETA\"",
+			"<%= content_tag :p, \"BETA\", :class => \"environment-label\" if Rails.env.staging? %>",
+			"DESENVOLVIMENTO",
+			".personacoop ",
+			"base",
+			".satisfaction-survey",
+			"Date.today",
+			"Date.toda",
+			"é",
+			"i",
+			"satisfaction_surveys",
+			"xml",
+			"FasterCSV.",
+			"FasterCSV",
+			"require 'fastercsv'",
+			"fastercsv",
+			"csv",
+			"xls",
+			"csv",
+			"xls",
+			"xsd",
+			"Document is not one of the allowed file types",
+			".file",
+			"file",
+			"@file",
+			".file",
+			"KIND[:SPC_DOCUMENT]",
+			"KIND[:document]",
+			"file",
+			"restrictions",
+			"simone",
+			"designa",
+			"attendant",
+			"humanize",
+			":joins => comments_join, ",
+			"comments_condition",
+			"close_condition",
+			"any_close_condition",
+			"close_condition",
+			"analysis_comments.id IS NULL",
+			"excluded?",
+			"approved?",
+			"Analysis::",
+			"closed_at?",
+			"closed_by_id?",
+			"approved?",
+			"pre_comments",
+			"excluded",
+			"scope",
+			"workflow",
+			"search_analysis",
+			"scope_procedure",
+			"_equals",
+			"workflow_equals",
+			"Status",
+			"status",
+			"excluded?"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -71,6 +377,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"NumberGenerator.generate_next_protocol",
+			"KIND[:SPC_DOCUMENT]"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -92,7 +400,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -128,24 +436,516 @@
 		"selected_items":
 		[
 			[
+				"bannejs",
+				"site_rails/public/javascripts/admin/banner.js"
+			],
+			[
+				"bannersedit",
+				"site_rails/app/views/admin/banners/edit.html.erb"
+			],
+			[
+				"repar.js",
+				"site_rails/public/javascripts/service/repar.js"
+			],
+			[
+				"simulations",
+				"site_rails/public/javascripts/service/simulations.js"
+			],
+			[
+				"parceladonew",
+				"site_rails/app/views/service/parcelado/new.html.haml"
+			],
+			[
+				"simula",
+				"site_rails/lib/cooper_johnson/simulation.rb"
+			],
+			[
+				"reparcontro",
+				"site_rails/app/controllers/service/repar_controller.rb"
+			],
+			[
+				"reparshow",
+				"site_rails/app/views/service/repar/show.html.haml"
+			],
+			[
+				"_rep",
+				"site_rails/app/views/service/dashboard/_repar.html.haml"
+			],
+			[
+				"repar_con",
+				"site_rails/app/controllers/service/repar_controller.rb"
+			],
+			[
+				"_abo",
+				"site_rails/app/views/service/dashboard/_above_proposals.html.haml"
+			],
+			[
+				"_repar",
+				"site_rails/app/views/service/dashboard/_repar.html.haml"
+			],
+			[
+				"sche",
+				"site_rails/db/schema.rb"
+			],
+			[
+				"simu",
+				"site_rails/lib/cooper_johnson/simulation.rb"
+			],
+			[
+				"num",
+				"site_rails/app/models/number_generator.rb"
+			],
+			[
+				"stagin",
+				"site_rails/config/deploy/staging.rb"
+			],
+			[
+				"numbe",
+				"site_rails/app/models/number_generator.rb"
+			],
+			[
+				"number",
+				"site_rails/app/models/number_generator.rb"
+			],
+			[
+				"base9",
+				"site_rails/app/models/base9.rb"
+			],
+			[
+				"integra",
+				"site_rails/lib/tasks/integration_migrate.rake"
+			],
+			[
+				"tasintegra",
+				"site_rails/lib/tasks/integration_migrate.rake"
+			],
+			[
+				"base10scop",
+				"site_rails/app/models/base10/associations_and_scopes.rb"
+			],
+			[
+				"base10me",
+				"site_rails/app/models/base10/methods.rb"
+			],
+			[
+				"base10",
+				"site_rails/app/models/base10.rb"
+			],
+			[
+				"base10sco",
+				"site_rails/app/models/base10/associations_and_scopes.rb"
+			],
+			[
+				"base2",
+				"site_rails/app/models/base2.rb"
+			],
+			[
+				"stagi",
+				"site_rails/config/deploy/staging.rb"
+			],
+			[
+				"repar",
+				"site_rails/app/models/repar.rb"
+			],
+			[
+				"service/repar.js",
+				"site_rails/public/javascripts/service/repar.js"
+			],
+			[
+				"simulationcontro",
+				"site_rails/app/controllers/service/simulations_controller.rb"
+			],
+			[
+				"uploadcontro",
+				"site_rails/app/controllers/admin/upload_controller.rb"
+			],
+			[
+				"applicontro",
+				"site_rails/app/controllers/application_controller.rb"
+			],
+			[
+				"adminads_contro",
+				"site_rails/app/controllers/admin/ads_controller.rb"
+			],
+			[
+				"reparcontr",
+				"site_rails/app/controllers/service/repar_controller.rb"
+			],
+			[
+				"reparnew",
+				"site_rails/app/views/service/repar/new.html.haml"
+			],
+			[
+				"_above",
+				"site_rails/app/views/service/dashboard/_above_proposals.html.haml"
+			],
+			[
+				"reparcontrol",
+				"site_rails/app/controllers/service/repar_controller.rb"
+			],
+			[
+				"abovecontr",
+				"site_rails/app/controllers/service/above_proposals_controller.rb"
+			],
+			[
+				"dashboarindex",
+				"site_rails/app/views/service/dashboard/index.html.haml"
+			],
+			[
+				"base10asso",
+				"site_rails/app/models/base10/associations_and_scopes.rb"
+			],
+			[
+				"base10meth",
+				"site_rails/app/models/base10/methods.rb"
+			],
+			[
+				"base10metho",
+				"site_rails/app/models/base10/methods.rb"
+			],
+			[
+				"simulati_above",
+				"site_rails/app/views/service/simulations/_simulation_above_line_1.html.haml"
+			],
+			[
+				"above_propo_form",
+				"site_rails/app/views/service/above_proposals/_form.html.erb"
+			],
+			[
+				"above",
+				"site_rails/app/models/above_proposal.rb"
+			],
+			[
+				"aboveshow",
+				"site_rails/app/views/service/above_proposals/show.html.haml"
+			],
+			[
+				"serviceprotocol",
+				"site_rails/app/controllers/service/protocols_controller.rb"
+			],
+			[
+				"above_proposalsshow",
+				"site_rails/app/views/service/above_proposals/show.html.haml"
+			],
+			[
+				"base1assoc",
+				"site_rails/app/models/base1/associations_and_scopes.rb"
+			],
+			[
+				"environment-label",
+				"site_rails/public/stylesheets/environment-label.css"
+			],
+			[
+				"layservi",
+				"site_rails/app/views/layouts/service.html.haml"
+			],
+			[
+				"dashboard-service",
+				"site_rails/public/stylesheets/dashboard-service.css"
+			],
+			[
+				"common/service",
+				"site_rails/public/stylesheets/common/service.css"
+			],
+			[
+				"layouservi",
+				"site_rails/app/views/layouts/service.html.haml"
+			],
+			[
+				"cj",
+				"site_rails/public/stylesheets/cj.css"
+			],
+			[
+				"_tools",
+				"site_rails/app/views/service/shared/_tools.html.haml"
+			],
+			[
+				"dashboardfilt",
+				"site_rails/app/views/service/dashboard/filter.html.haml"
+			],
+			[
+				"simulationcontr",
+				"site_rails/app/controllers/partner/simulations_controller.rb"
+			],
+			[
+				"produ",
+				"site_rails/config/deploy/production.rb"
+			],
+			[
+				"serviceprotoco",
+				"site_rails/app/controllers/service/protocols_controller.rb"
+			],
+			[
+				"parcelad",
+				"site_rails/app/controllers/service/parcelado_controller.rb"
+			],
+			[
+				"repar.rb",
+				"site_rails/app/models/repar.rb"
+			],
+			[
+				"simulation",
+				"site_rails/lib/cooper_johnson/simulation.rb"
+			],
+			[
+				"simulationrepar",
+				"site_rails/lib/cooper_johnson/simulation/repar.rb"
+			],
+			[
+				"base1associ",
+				"site_rails/app/models/base1/associations_and_scopes.rb"
+			],
+			[
+				"servreparnew",
+				"site_rails/app/views/service/repar/new.html.haml"
+			],
+			[
+				"servirepar",
+				"site_rails/app/controllers/service/repar_controller.rb"
+			],
+			[
+				"read",
+				"site_rails/README.rdoc"
+			],
+			[
+				"dashboardindex",
+				"site_rails/app/views/admin/dashboard/index.html.erb"
+			],
+			[
+				"user",
+				"site_rails/app/models/user.rb"
+			],
+			[
+				"parce",
+				"site_rails/app/controllers/service/parcelado_controller.rb"
+			],
+			[
 				"deplo",
 				"site_rails/config/deploy.rb"
 			],
 			[
-				"fre",
-				"site_rails/app/controllers/fresh_passwords_controller.rb"
+				"stag",
+				"site_rails/config/deploy/staging.rb"
+			],
+			[
+				"uploadcontr",
+				"site_rails/app/controllers/admin/upload_controller.rb"
+			],
+			[
+				"applicarb",
+				"site_rails/vendor/plugins/remarkable_extensions/spec/application/application.rb"
+			],
+			[
+				"report",
+				"site_rails/app/controllers/admin/report_controller.rb"
+			],
+			[
+				"prod",
+				"site_rails/config/deploy/production.rb"
+			],
+			[
+				"sta",
+				"site_rails/config/deploy/staging.rb"
+			],
+			[
+				"use",
+				"site_rails/app/models/user.rb"
+			],
+			[
+				"vagr",
+				"Vagrantfile"
+			],
+			[
+				"partnercontrol",
+				"site_rails/app/controllers/partner/address_controller.rb"
+			],
+			[
+				"satiscon",
+				"site_rails/app/controllers/partner/satisfaction_surveys_controller.rb"
+			],
+			[
+				"crediauto_contr",
+				"site_rails/app/views/service/crediauto/_contract.html.erb"
+			],
+			[
+				"service/crediautonote",
+				"site_rails/app/views/service/crediauto/_note.html.erb"
+			],
+			[
+				"crediau",
+				"site_rails/app/controllers/service/crediauto_controller.rb"
+			],
+			[
+				"service/crediauto",
+				"site_rails/app/views/service/crediauto/show.html.haml"
+			],
+			[
+				"integr",
+				"site_rails/app/models/integration.rb"
 			],
 			[
 				"csv",
 				"site_rails/lib/cooper_johnson/csv.rb"
 			],
 			[
-				"integra",
-				"site_rails/app/models/integration.rb"
+				"upload",
+				"site_rails/app/controllers/admin/upload_controller.rb"
 			],
 			[
-				"uplo",
-				"site_rails/app/controllers/admin/upload_controller.rb"
+				"todo",
+				"site_rails/tmp/todo.txt"
+			],
+			[
+				"t",
+				"site_rails/config/environments/test.rb"
+			],
+			[
+				"adminsatisfactionsurveysin",
+				"site_rails/app/views/admin/satisfaction_surveys/index.html.erb"
+			],
+			[
+				"satisque",
+				"site_rails/app/models/satisfaction_survey_question.rb"
+			],
+			[
+				"satis",
+				"site_rails/app/models/satisfaction_survey.rb"
+			],
+			[
+				"base8",
+				"site_rails/app/models/base8.rb"
+			],
+			[
+				"admiadscon",
+				"site_rails/app/controllers/admin/ads_controller.rb"
+			],
+			[
+				"routesadm",
+				"site_rails/config/routes/admin.rb"
+			],
+			[
+				"admindashinde",
+				"site_rails/app/views/admin/dashboard/index.html.erb"
+			],
+			[
+				"admindashboin",
+				"site_rails/app/views/admin/dashboard/index.html.erb"
+			],
+			[
+				"env",
+				"site_rails/config/environment.rb"
+			],
+			[
+				"base1assc",
+				"site_rails/app/models/base1/associations_and_scopes.rb"
+			],
+			[
+				"restriction",
+				"site_rails/app/models/restriction.rb"
+			],
+			[
+				"restriccon",
+				"site_rails/app/controllers/service/restrictions_controller.rb"
+			],
+			[
+				"service/restrictions/new",
+				"site_rails/app/views/service/restrictions/new.html.haml"
+			],
+			[
+				"base1",
+				"site_rails/app/models/base1.rb"
+			],
+			[
+				"adscontro",
+				"site_rails/app/controllers/admin/ads_controller.rb"
+			],
+			[
+				"adscon",
+				"site_rails/app/controllers/ads_controller.rb"
+			],
+			[
+				"dashboard_con",
+				"site_rails/app/controllers/service/dashboard_controller.rb"
+			],
+			[
+				"envi",
+				"site_rails/config/environment.rb"
+			],
+			[
+				"anal",
+				"site_rails/app/models/analysis.rb"
+			],
+			[
+				"_analysis",
+				"site_rails/app/views/service/dashboard/_analysis.html.haml"
+			],
+			[
+				"dashboarinde",
+				"site_rails/app/views/service/dashboard/index.html.haml"
+			],
+			[
+				"adminadscontr",
+				"site_rails/app/controllers/admin/ads_controller.rb"
+			],
+			[
+				"produc",
+				"site_rails/config/deploy/production.rb"
+			],
+			[
+				"dashboardcontro",
+				"site_rails/app/controllers/service/dashboard_controller.rb"
+			],
+			[
+				"_above_proposals",
+				"site_rails/app/views/service/dashboard/_above_proposals.html.haml"
+			],
+			[
+				"_extra_deferment",
+				"site_rails/app/views/service/dashboard/_extra_deferment.html.haml"
+			],
+			[
+				"satisfac",
+				"site_rails/app/models/satisfaction_survey.rb"
+			],
+			[
+				"setting_form",
+				"site_rails/app/views/admin/settings/_form.html.erb"
+			],
+			[
+				"setti_form",
+				"site_rails/app/views/admin/settings/_form.html.erb"
+			],
+			[
+				"settions_form",
+				"site_rails/app/views/admin/testimonials/_form.html.erb"
+			],
+			[
+				"applcon",
+				"site_rails/app/controllers/application_controller.rb"
+			],
+			[
+				"satisfaction_surveyc",
+				"site_rails/app/controllers/partner/satisfaction_surveys_controller.rb"
+			],
+			[
+				"new",
+				"site_rails/app/models/news.rb"
+			],
+			[
+				"ad.rb",
+				"site_rails/app/models/ad.rb"
+			],
+			[
+				"testim",
+				"site_rails/app/models/testimonial.rb"
+			],
+			[
+				"catego",
+				"site_rails/app/models/category.rb"
+			],
+			[
+				"newsshow",
+				"site_rails/app/views/news/show.html.erb"
 			]
 		],
 		"width": 0.0
@@ -166,6 +966,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 226.0,
+	"side_bar_width": 335.0,
 	"status_bar_visible": true
 }

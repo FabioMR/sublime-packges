@@ -32,6 +32,8 @@
 	},
 	"file_history":
 	[
+		"/home/fabio/sistemas/site-designa/config/application.rb",
+		"/home/fabio/sistemas/site-designa/app/assets/stylesheets/main.css",
 		"/home/fabio/sistemas/site-designa/config/deploy.rb",
 		"/home/fabio/sistemas/site-designa/config/database.yml",
 		"/home/fabio/sistemas/site-designa/Capfile",
@@ -64,6 +66,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"fonts",
 			"designa",
 			"database",
 			"asse",
@@ -180,7 +183,7 @@
 		[
 			[
 				"",
-				"/home/fabio/.config/sublime-text-2/Packages/User/patrimonio.sublime-project"
+				"/home/fabio/.config/sublime-text-2/Packages/User/designasm.sublime-project"
 			]
 		],
 		"width": 380.0
